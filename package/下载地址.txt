@@ -1,0 +1,4 @@
+python万用地址：https://pypi.org/project/selenium/
+chromedriver地址：http://npm.taobao.org/mirrors/chromedriver/
+IEdriver地址：http://selenium-release.storage.googleapis.com/index.html
+geckodriver地址：https://github.com/mozilla/geckodriver/releases
